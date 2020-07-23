@@ -58,7 +58,7 @@
     <logback-ext-spring.version>0.1.4</logback-ext-spring.version>
     <kafka.version>0.10.0.1</kafka.version>
     <spring.kafka.version>2.1.0.RELEASE</spring.kafka.version>
-    <fileupload.version>1.3.1</fileupload.version>
+    <fileupload.version>1.3.3</fileupload.version>
     <pay-common.version>1.0.18</pay-common.version>
     <pay-dubbo.version>1.0.6</pay-dubbo.version>
     <pay-ibatis.version>1.0.3</pay-ibatis.version>
